@@ -1,5 +1,5 @@
 ### Olá eu sou Alan. :octocat:  
-Gosto de codificar e criar aplicações do zero.
+Gosto de codar e criar aplicações do zero.
 
 ## 📚 Estudos
 > Cursando Análise e Desenvolvimento de Sistemas  | [Unopar](https://www.unopar.com.br/)        <br>
