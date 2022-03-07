@@ -1,11 +1,13 @@
-### Olá eu sou Alan. Gosto de codificar e criar aplicações do zero.
+### Olá eu sou Alan. :octocat:  
+Gosto de codificar e criar aplicações do zero.
 
 ## 📚 Estudos
 > Cursando Análise e Desenvolvimento de Sistemas  | [Unopar](https://www.unopar.com.br/)        <br>
 > Estudante Full-Stack Jr. | <a href="https://portal.stackx.com.br" target="_blank">StackX</a>  <br>
 > Desenvolvedor Web Jr. 
 
-### Linguagens
+### ✔️ Linguagens
+### ♦️ Linguagens
   
   ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
