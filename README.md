@@ -15,20 +15,17 @@
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   
-### 🚀 Frameworks
-  
+### 🧰 Ferramentas
+Frameworks  
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-  
-### IDE
-  
+  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)  
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-  ### Pré-processador
   ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
   
-  <div align="center">   
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alancamposdev&theme=dark&hide_langs_below=1" />   
-  </div>
+  ----
+  
+  <div align="center">    
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alancamposdev&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
