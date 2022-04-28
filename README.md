@@ -6,6 +6,15 @@ Gosto de codar e criar aplicações do zero.
 > Estudante Full-Stack Jr. | <a href="https://portal.stackx.com.br" target="_blank">StackX</a>  <br>
 > Desenvolvedor Web Jr. 
 
+### 🔗 Redes sociais
+
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://github.com/rhogger)](https://api.whatsapp.com/send?phone=556984067550)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://github.com/rhogger)](https://www.linkedin.com/in/alancamposdeveloper/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/rhogger)](mailto:alancamposdeveloper@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://github.com/rhogger)](https://discord.io/alancamposdev)
+
+
+
 ### ✔️ Linguagens
   
   ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
