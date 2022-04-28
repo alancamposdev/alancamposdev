@@ -6,6 +6,8 @@ Gosto de codar e criar aplicações do zero.
 > Estudante Full-Stack Jr. | <a href="https://portal.stackx.com.br" target="_blank">StackX</a>  <br>
 > Desenvolvedor Web Jr. 
 
+---
+
 ### 🔗 Redes sociais
 
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://github.com/rhogger)](https://api.whatsapp.com/send?phone=556984067550)
@@ -13,7 +15,7 @@ Gosto de codar e criar aplicações do zero.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/rhogger)](mailto:alancamposdeveloper@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://github.com/rhogger)](https://discord.io/alancamposdev)
 
-
+---
 
 ### ✔️ Linguagens
   
@@ -24,6 +26,7 @@ Gosto de codar e criar aplicações do zero.
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+  
   
 ### 🧰 Ferramentas
 
@@ -39,3 +42,5 @@ Gosto de codar e criar aplicações do zero.
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alancamposdev&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   </div>
+  
+>
