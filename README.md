@@ -43,4 +43,52 @@ Gosto de codar e criar aplicações do zero.
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alancamposdev&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   </div>
   
->
+  
+  ### ⚙ Projetos 
+  
+  ---
+  
+  01 - WebSite Portfólio estático HTML e CSS [acesse aqui](www.google.com.br "meus projetos")  
+  02 - WebSite Portfólio dinânimo HTML,CSS e JS [acesse aqui]() \
+  03 - WebSite Institucional []() \
+  04 - WebSite Loja Virtual "e-commerce" [acesse aqui]() \
+  05 - WebSite Blog [acesse aqui]() \
+  06 - WebSite Landing Page "página única" [acesse aqui]() 
+  
+  
+  07 - Calculadora usando HTML e CSS [acesse aqui]() \  
+  08 - Calculadora usando HTML,CSS e JavaScript [acesse aqui]() \
+  09 - Calculadora IMC [acesse aqui]() 
+  
+  10 - Card com efeito hover [acesse aqui]() \
+  11 - Cards expansivos [acesse aqui]() \
+  12 - Menu Rotativo [acesse aqui]() \
+  13 - Animação de Scrool [acesse aqui]() \
+  14 - Carousel  [acesse aqui]() \
+  15 - Página em carregamento... [acesse aqui]() 
+  
+  16 - Formulários "Login e Cadastro" [acesse aqui]() \
+  17 - Validação de Formulário [acesse aqui]() \
+  18 - CRUD [acesse aqui]() 
+  
+  19 - Relógio Analógico [acesse aqui]() \
+  20 - Relógio Digital [acesse aqui]() \
+  21 - Cronometro [acesse aqui]() 
+  
+  22 - Jogo da velha [acesse aqui]() \
+  23 - Jogo da Memória [acesse aqui]() \
+  24 - Quiz App [acesse aqui]() \
+  25 - To-Do App [acesse aqui]() \
+  26 - Timeline [acesse aqui]() 
+  
+   #### Clones de páginas web 
+   
+  27 - Clone do Instagram [acesse aqui]() \
+  28 - Clone da Google [acesse aqui]() 
+  
+  
+  
+  
+  
+  
+  
