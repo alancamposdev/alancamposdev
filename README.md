@@ -2,8 +2,7 @@
 Gosto de codar e criar aplicações do zero.
 
 ## 📚 Estudos
-> Cursando Análise e Desenvolvimento de Sistemas  | [Unopar](https://www.unopar.com.br/)        <br>
-> Estudante Full-Stack Jr. | <a href="https://portal.stackx.com.br" target="_blank">StackX</a>  <br>
+> 4° Semestre de Análise e Desenvolvimento de Sistemas  | [Unopar](https://www.unopar.com.br/)        <br>
 > Desenvolvedor Web Jr. 
 
 ---
