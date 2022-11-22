@@ -51,14 +51,14 @@ Gosto de codar e criar aplicações do zero.
   01 - WebSite Portfólio estático HTML e CSS [acesse aqui](www.google.com.br "meus projetos")  
   02 - WebSite Portfólio dinânimo HTML,CSS e JS [acesse aqui]() \
   03 - WebSite Institucional []() \
-  04 - WebSite Loja Virtual "e-commerce" [acesse aqui]() \
+  04 - WebSite Loja Virtual "e-commerce" [acesse aqui](https://github.com/alancamposdev/e-commerce) \
   05 - WebSite Blog [acesse aqui]() \
   06 - WebSite Landing Page "página única" [acesse aqui]() 
   
   
   07 - Calculadora usando HTML e CSS [acesse aqui]() \  
   08 - Calculadora usando HTML,CSS e JavaScript [acesse aqui]() \
-  09 - Calculadora IMC [acesse aqui]() 
+  09 - Calculadora IMC [acesse aqui](https://github.com/alancamposdev/calculadora-imc) 
   
   10 - Card com efeito hover [acesse aqui]() \
   11 - Cards expansivos [acesse aqui]() \
