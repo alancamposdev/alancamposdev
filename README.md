@@ -57,7 +57,7 @@ Gosto de codar e criar aplicações do zero.
   
   
   07 - Calculadora usando HTML e CSS [acesse aqui]() \  
-  08 - Calculadora usando HTML,CSS e JavaScript [acesse aqui]() \
+  08 - Calculadora usando HTML,CSS e JavaScript [acesse aqui](https://github.com/alancamposdev/calculadora) \
   09 - Calculadora IMC [acesse aqui](https://github.com/alancamposdev/calculadora-imc) 
   
   10 - Card com efeito hover [acesse aqui]() \
@@ -72,11 +72,11 @@ Gosto de codar e criar aplicações do zero.
   18 - CRUD [acesse aqui]() 
   
   19 - Relógio Analógico [acesse aqui]() \
-  20 - Relógio Digital [acesse aqui]() \
-  21 - Cronometro [acesse aqui]() 
+  20 - Relógio Digital [acesse aqui](https://github.com/alancamposdev/RelogioDigital) \
+  21 - Cronometro [acesse aqui](https://github.com/alancamposdev/cronometro) 
   
-  22 - Jogo da velha [acesse aqui]() \
-  23 - Jogo da Memória [acesse aqui]() \
+  22 - Jogo da velha [acesse aqui](https://github.com/alancamposdev/jogo_da_velha) \
+  23 - Jogo da Memória [acesse aqui](https://github.com/alancamposdev/JogoDaMemoria) \
   24 - Quiz App [acesse aqui]() \
   25 - To-Do App [acesse aqui]() \
   26 - Timeline [acesse aqui]() 
