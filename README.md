@@ -2,7 +2,7 @@
 Gosto de codar e criar aplicações do zero.
 
 ## 📚 Estudos
-> Tecnólogo em Análise e Desenvolvimento de Sistemas  | [Unopar](https://www.unopar.com.br/)        <br>
+> Tecnólogo em Análise e Desenvolvimento de Sistemas  | [Unopar](https://www.unopar.com.br/curso/analise-e-desenvolvimento-de-sistemas/)        <br>
 > Desenvolvedor Web Jr. | Dev AlanCampos
 
 ---
