@@ -9,7 +9,7 @@ Apaixonado por programação
 
 ## 📚 Estudos
 
-> MIT - Desenvolvimento Full Stack | [Infnet](https://www.infnet.edu.br/infnet/home/)   \
+> Estudante: MIT - Desenvolvimento Full Stack | [Infnet](https://www.infnet.edu.br/infnet/home/)   \
 > Desenvolvedor Web Jr. | Dev. AlanCampos
 
 ---
