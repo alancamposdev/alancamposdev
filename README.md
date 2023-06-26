@@ -1,6 +1,6 @@
  
 <h1 align="center">Hi 👋, I'm Alan Campos </h1>
-<h3 align="center">A fullstack developer from Brazil</h3>
+<h3 align="center">A web developer from Brazil</h3>
 
 ## 🎓 Formação 
 
