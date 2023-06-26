@@ -1,6 +1,6 @@
-### Olá eu sou Alan. :octocat:  
-
-Apaixonado por programação
+ 
+<h1 align="center">Hi 👋, I'm Alan Campos </h1>
+<h3 align="center">A fullstack developer from Brazil</h3>
 
 ## 🎓 Formação 
 
@@ -39,6 +39,8 @@ Apaixonado por programação
   ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
   
   ----
+
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alancamposdev&show_icons=true&locale=en&layout=compact" alt="alancamposdev" /></p>
   
 
   
