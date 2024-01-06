@@ -1,6 +1,6 @@
  
-<h1 align="center">👋 Hi everybody! I'm Alan Campos. </h1>
-<h3 align="center">A web developer from Brazil</h3>
+<h1 align="center">👋 Olá! Eu sou <strong>Alan Campos</strong>. </h1>
+<h3 align="center">From Brazil 💻</h3>
 
 ## 🎓 Formação 
 
@@ -9,8 +9,7 @@
 
 ## 📚 Estudos
 
-> Estudante: MIT - Desenvolvimento Full Stack | [Infnet](https://www.infnet.edu.br/infnet/home/)   \
-> Desenvolvedor Web Jr. | Dev. AlanCampos
+> Programação Web | Dev. AlanCampos   
 
 ---
 
