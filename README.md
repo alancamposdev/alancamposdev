@@ -12,7 +12,7 @@
 <!-- Seção de Sobre Mim -->
 <h2 align="center">  Sobre Mim 🧑🏻 </h2>
 <p align="center">
-  Sou um apaixonado por tecnologia, especialmente no mundo do Desenvolvimento Web. Tenho formação em Tecnologia em Análise e Desenvolvimento de Sistemas pela UNOPAR e estou constantemente buscando maneiras de aprimorar minhas habilidades e conhecimentos.
+  Meu entusiasmo pela tecnologia, especialmente no campo do Desenvolvimento Web, é palpável e impulsiona minha busca por excelência. Com uma sólida formação em Análise e Desenvolvimento de Sistemas, estou sempre empenhado em aprimorar minhas habilidades e conhecimentos. Estou ávido por oportunidades desafiadoras que me permitam contribuir e crescer em um ambiente dinâmico e inovador.
 </p>
 
 <!-- Seção de Educação -->
@@ -39,9 +39,9 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">  
 </p>
