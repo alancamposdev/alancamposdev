@@ -72,28 +72,28 @@
 
 ### HTML e CSS 🎨
 
-- [Site de Notícias]()
-- [Site E-commerce]()
-- [Site de Viagens]()
-- [Site de Filmes]()
+- [Site de Notícias]
+- [Site E-commerce]
+- [Site de Viagens]
+- [Site de Filmes]
 
 ### JavaScript 🔥
 
-- [Calculadora Simples]()
-- [Relógio Digital]()
-- [Lista de Tarefas]()
+- [Calculadora Simples](https://alancamposdev.github.io/calculadora/)
+- [Relógio Digital]
+- [Lista de Tarefas]
 
 ### Node.js ⚙️
 
-- [Em construção...]()
-- [Em construção...]()
-- [Em construção...]()
+- [Em construção...]
+- [Em construção...]
+- [Em construção...]
 
 ### React ⚛️
 
-- [Em construção...]()
-- [Em construção...]()
-- [Em construção...]()
+- [Em construção...]
+- [Em construção...]
+- [Em construção...]
 
 
 
