@@ -79,7 +79,7 @@
 
 ### JavaScript 🔥
 
-- [Calculadora Simples](https://alancamposdev.github.io/calculadora/)
+- [Calculadora Simples](https://github.com/alancamposdev/calculadora)
 - [Relógio Digital]
 - [Lista de Tarefas]
 
