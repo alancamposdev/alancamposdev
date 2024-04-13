@@ -87,6 +87,8 @@
 - [Jogo da Velha](https://github.com/alancamposdev/jogo_da_velha)
 - [Jogo da Memória](https://github.com/alancamposdev/JogoDaMemoria)
 
+- [Gerador de Senhas](https://github.com/alancamposdev/password-generator)
+
 ### Node.js ⚙️
 
 - [Em construção...]
