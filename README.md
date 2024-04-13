@@ -80,8 +80,12 @@
 ### JavaScript 🔥
 
 - [Calculadora Simples](https://github.com/alancamposdev/calculadora)
-- [Relógio Digital](https://github.com/alancamposdev/RelogioDigital)
+- [Calculadora IMC](https://github.com/alancamposdev/calculadora-imc)
 - [Cronômetro Online](https://github.com/alancamposdev/cronometro)
+- [Relógio Digital](https://github.com/alancamposdev/RelogioDigital)
+
+- [Jogo da Velha](https://github.com/alancamposdev/jogo_da_velha)
+- [Jogo da Memória](https://github.com/alancamposdev/JogoDaMemoria)
 
 ### Node.js ⚙️
 
