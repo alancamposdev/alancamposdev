@@ -80,7 +80,7 @@
 ### JavaScript 🔥
 
 - [Calculadora Simples](https://github.com/alancamposdev/calculadora)
-- [Relógio Digital]
+- [Relógio Digital](https://github.com/alancamposdev/RelogioDigital)
 - [Lista de Tarefas]
 
 ### Node.js ⚙️
