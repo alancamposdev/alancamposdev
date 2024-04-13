@@ -88,6 +88,7 @@
 - [Jogo da Memória](https://github.com/alancamposdev/JogoDaMemoria)
 
 - [Gerador de Senhas](https://github.com/alancamposdev/password-generator)
+- [Quiz sobre Programação](https://github.com/alancamposdev/code-quiz)
 
 ### Node.js ⚙️
 
