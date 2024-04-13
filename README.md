@@ -81,7 +81,7 @@
 
 - [Calculadora Simples](https://github.com/alancamposdev/calculadora)
 - [Relógio Digital](https://github.com/alancamposdev/RelogioDigital)
-- [Lista de Tarefas]
+- [Cronômetro Online](https://github.com/alancamposdev/cronometro)
 
 ### Node.js ⚙️
 
