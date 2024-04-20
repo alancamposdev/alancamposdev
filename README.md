@@ -76,6 +76,7 @@
 - [Site E-commerce]
 - [Site de Viagens]
 - [Site de Filmes]
+- [One Punch Man - FanPage](https://github.com/alancamposdev/one-punch-man)
 
 ### JavaScript 🔥
 
