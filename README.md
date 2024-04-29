@@ -91,6 +91,8 @@
 - [Gerador de Senhas](https://github.com/alancamposdev/password-generator)
 - [Quiz sobre Programação](https://github.com/alancamposdev/code-quiz)
 
+- [MusicApp](https://alancamposdev.github.io/music-app/)
+
 ### Node.js ⚙️
 
 - [Em construção...]
