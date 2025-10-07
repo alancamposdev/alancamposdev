@@ -56,15 +56,6 @@
   <a href="https://discord.io/alancamposdev"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a>
 </p>
 
-<!-- Seção de visitantes-->
-<div align="center">
-<br><p align="center"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alancamposdev}/count.svg" /></p> 
-<br></div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
-
 <!-- Seção de Projetos -->
 <h2 align="center">🚀 Projetos</h2>
 <p align="center">Lista de projetos desenvolvidos por mim</p>
@@ -76,7 +67,7 @@
 - [Site E-commerce]
 - [Site de Viagens]
 - [Site de Filmes]
-- [One Punch Man - FanPage](https://github.com/alancamposdev/one-punch-man)
+
 
 ### JavaScript 🔥
 
@@ -90,9 +81,9 @@
 
 - [Gerador de Senhas](https://github.com/alancamposdev/password-generator)
 - [Conversor de unidades](https://github.com/alancamposdev/conversor_de_unidades)
-- [Quiz sobre Programação](https://github.com/alancamposdev/code-quiz)
 
-- [MusicApp](https://github.com/alancamposdev/music-app)
+
+
 
 ### Node.js ⚙️
 
@@ -113,3 +104,10 @@
 <p align="center">
   <em>"Lembre-se: o segredo do sucesso está em nunca desistir. Persista com determinação, e o impossível se tornará possível!" - autor desconhecido<em>
 </p
+
+
+
+
+<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
