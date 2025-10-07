@@ -7,7 +7,7 @@
 
 <!-- Seção de Título -->
 <h1 align="center"> Olá, Mundo! 👋 Eu sou <strong>Alan Campos</strong></h1>
-<p align="center">Desenvolvedor Front-End</p>
+<p align="center">Desenvolvedor Web</p>
 
 <!-- Seção de Sobre Mim -->
 <h2 align="center">  Sobre Mim 🧑🏻 </h2>
